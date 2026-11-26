@@ -18,10 +18,10 @@ Research behind these mods (reverse engineering of the original firmware) lives 
 |---|---|---|---|---|
 | 1 / 2 / 3 | CC25 | 1 / 2 / 3 | Momentary | SCENE 1 / 2 / 3 |
 | 4 | CC28 | 127/0 | Toggle | n/a |
-| A | CC79 | 127/0 | Toggle | EFFECTS 1 |
-| B | CC80 | 127/0 | Toggle | EFFECTS 2 |
-| C | CC81 | 127/0 | Toggle | DLY/RVB |
-| D | CC60 | 127/0 | Toggle | n/a |
+| A | CC79 | 127/0 | Toggle | FS1 |
+| B | CC80 | 127/0 | Toggle | FS2 |
+| C | CC81 | 127/0 | Toggle | FS3 |
+| D | CC60 | 127/0 | Toggle | TUNER |
 | 5 | CC27 | 0 | Momentary | PATCH UP |
 | E | CC26 | 0 | Momentary | PATCH DOWN |
 | EXP1 / EXP2 | CC11 | pedal | continuous | expression |
